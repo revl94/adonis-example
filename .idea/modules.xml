@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/admin-authorization-service/.idea/admin-authorization-service.iml" filepath="$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/admin-authorization-service/.idea/admin-authorization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/admin-users-service/.idea/admin-users-service.iml" filepath="$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/admin-users-service/.idea/admin-users-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/authorization-server/.idea/authorization-server.iml" filepath="$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/authorization-server/.idea/authorization-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/catalog-service/.idea/catalog-service.iml" filepath="$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/catalog-service/.idea/catalog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/locations-service/.idea/locations-service.iml" filepath="$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/locations-service/.idea/locations-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/notifications-service/.idea/notifications-service.iml" filepath="$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/notifications-service/.idea/notifications-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rest-api-udemy.iml" filepath="$PROJECT_DIR$/.idea/rest-api-udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/users-service/.idea/users-service.iml" filepath="$PROJECT_DIR$/../../Nestjs/eCommerce-Argentina/users-service/.idea/users-service.iml" />
+    </modules>
+  </component>
+</project>
